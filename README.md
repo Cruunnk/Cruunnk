@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am an apprentice as a merchant in e-commerce<br>🤝 During this time I became fascinated with programming<br>🌱 I started with HTML and CSS. Continues with Javascript especially jQuery, and now I'm learning PHP Laravel<br>⚡ I'm always open to new challenges
+I am an apprentice as a merchant in e-commerce<br>During this time I became fascinated with programming<br>I started with HTML and CSS. Continues with Javascript especially jQuery, and now I'm learning PHP Laravel<br>I'm always open to new challenges
 
 
 ## 🌐 Socials:
