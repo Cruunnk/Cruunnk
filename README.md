@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am an apprentice as a merchant in e-commerce<br>During this time I became fascinated with programming<br>I started with HTML and CSS. Continues with Javascript especially jQuery, and now I'm learning PHP Laravel<br>I'm always open to new challenges
+I started my professional journey as an apprentice in E-commerce, where my interest in programming took root. Transitioning from HTML and CSS, I delved into JavaScript, particularly jQuery, and have now evolved into the role of an Application Developer.
+
+Currently, my focus lies in mastering PHP, specifically leveraging the Laravel framework for robust and scalable application development. Additionally, I am immersing myself in modern web development, enhancing my skills in React with the Next.js framework and TypeScript.
+
+I bring hands-on experience in data processing, working with both MSSQL and MYSQL. This enables me to develop data-driven applications and effectively navigate various database technologies.
+
+As an Application Developer, I thrive on embracing new challenges and continuously expanding my skill set. If you're seeking a developer who not only possesses strong programming skills but also excels in complex data processing, I am eager to contribute. Let's collaborate to create innovative solutions and push the boundaries of software development.
 
 
 ## 🌐 Socials:
